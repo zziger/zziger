@@ -20,7 +20,7 @@ I'm Artem, a Ukrainian self-taught full-stack software engineer, who loves takin
 - C#, mostly .NET and .NET Core, ASP.NET, Working with CLR/CIL itself (dnlib, mono.cecil)
 - TS/JS in Web and Node.js, mostly express.js for backend
 - Configuring and writing plugins to TS/JS bundlers and transpilers (vite, esbuild, webpack, etc)
-- React, Next.js, both experienced in "new" functional-style components/code, and "older, legacy" OOP-style components/code, SSR
+- React, Next.js, SSR, both experienced in "new" functional-style components/code, and "older, legacy" OOP-style components/code
 - Front-end development, HTML, CSS, SASS, Electron
 - Vue
 - A bit of WebGL, mostly three.js
