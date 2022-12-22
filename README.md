@@ -28,6 +28,7 @@ I'm Artem, a Ukrainian self-taught full-stack software engineer, who loves takin
 - Reverse Engineering, mainly x32
 - Mobile development, mostly React Native
 - DevOps, GitHub CI, GitLab CI, Docker, Docker Swarm, Nginx
+- Both relational and non-relational DBs: MongoDB, PostgreSQL, InfluxDB
 - Python (mostly working on Blender plugins)
 - A little bit of Java
 
