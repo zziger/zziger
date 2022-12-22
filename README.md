@@ -3,7 +3,7 @@
 I'm Artem, a Ukrainian self-taught full-stack software engineer, who loves taking challenges and learning something new.
 
 ## 📫 Contacts
-- You can write me at zziger#8040 on Discord, or at @zziger on Telegram. I'm open to talking and would love to share or get more knowledge 🙂
+- You can write me at `zziger#8040` on Discord, or at `@zziger` on Telegram. I'm open to talking and would love to share or get more knowledge 🙂
 
 ## 😄 Pronouns
 - He/Him
