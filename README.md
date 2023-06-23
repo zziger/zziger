@@ -3,14 +3,13 @@
 I'm Artem, a Ukrainian self-taught full-stack software engineer, who loves taking challenges and learning something new.
 
 ## 📫 Contacts
-- You can write me at `zziger#8040` on Discord, or at `@zziger` on Telegram. I'm open to talking and would love to share or get more knowledge 🙂
+- You can write me at `@zziger` on Discord or Telegram. I'm open to talking and would love to share or get more knowledge 🙂
 
 ## 😄 Pronouns
 - He/Him
 
 ## 🔭 Currently working at
-- [Product Madness](https://www.productmadness.com/) as a C# developer
-- [alt:V Multiplayer](https://altv.mp/), mostly on [C# language runtime module](https://github.com/fabianterhorst/coreclr-module), [UI](https://github.com/altmp/altv-ui) and Launcher (private repo).
+- [alt:V Multiplayer](https://altv.mp/).
 - Getting experience in Reverse Engineering making mods to small/older games (mostly Russian ones, those that I played as a child lol) like [Super-Cow](https://github.com/zziger/supercow-mod) or [Azangara](https://github.com/zziger/azangara-mod).
  
 ## 🌱 Currently learning
