@@ -9,8 +9,13 @@ I'm Artem, a Ukrainian self-taught full-stack software engineer, who loves takin
 - He/Him
 
 ## 🔭 Currently working at
-- [alt:V Multiplayer](https://altv.mp/).
+- [Rockstar Games](https://rockstargames.com)
 - Getting experience in Reverse Engineering making mods to small/older games (mostly Russian ones, those that I played as a child lol) like [Super-Cow](https://github.com/zziger/supercow-mod) or [Azangara](https://github.com/zziger/azangara-mod).
+
+## 📆 Worked at
+- [alt:V Multiplayer](https://altv.mp/)
+- [Majestic RolePlay](https://gta5majestic.com/)
+- [Product Madness](https://www.productmadness.com/)
  
 ## 🌱 Currently learning
 - I always learn something by jumping right into doing it, facing the challenge is the most effective way to learn for me. Currently mainly interested in Reverse Engineering and C++.
